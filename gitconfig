@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = orkunzozturk@gmail.com
+	name = Orkun Zafer Ozturk
